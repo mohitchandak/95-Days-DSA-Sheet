@@ -1,0 +1,9 @@
+https://leetcode.com/problems/maximum-ice-cream-bars/ 
+https://leetcode.com/problems/maximum-product-difference-between-two-
+pairs/ 
+https://leetcode.com/problems/maximum-units-on-a-truck/ 
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/ 
+https://leetcode.com/problems/minimum-difference-between-highest-and-
+lowest-of-k-scores/ 
+https://leetcode.com/problems/sorting-the-sentence/ 
+https://leetcode.com/problems/stone-game-vi/ 
